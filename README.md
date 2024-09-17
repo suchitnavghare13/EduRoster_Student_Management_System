@@ -1,0 +1,2 @@
+# EduRoster_Student_Management_System
+EduRoster_Student_Management_System by Suchit Navghare
