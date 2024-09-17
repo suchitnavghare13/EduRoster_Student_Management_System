@@ -1,7 +1,8 @@
 # EduRoster_Student_Management_System
 EduRoster_Student_Management_System by Suchit Navghare
 
-Author This project was developed and written by Suchit Navghare. • Email: suchitnavghare13@gmail.com/suchitatwork@gmail.com • GitHub: https://github.com/suchitnavghare13 • LinkedIn: https://www.linkedin.com/in/suchit-navghare-a0980b211/ Feel free to reach out if you have any questions or suggestions regarding this project!
+Author This project was developed and written by Suchit Navghare. • Email: suchitnavghare13@gmail.com/suchitatwork@gmail.com • GitHub: https://github.com/suchitnavghare13 • LinkedIn: https://www.linkedin.com/in/suchit-navghare-a0980b211/ 
+Feel free to reach out if you have any questions or suggestions regarding this project!
 
 # Overview
 The Student Management System is a simple C++ console-based application that helps manage student information, including their name, gender, pointer (GPA), and seat number. The system allows you to add, search, and update student records efficiently. This project demonstrates fundamental object-oriented programming concepts, including classes, encapsulation, and static members.
@@ -77,7 +78,7 @@ Student added successfully! John Doe's seat number is: 1
 - GPA (pointer) should be between 0 and 10.
 - Gender should be 'M', 'F', or 'O'.
 
-#Contributing
+# Contributing
 Feel free to fork this project and submit pull requests if you want to contribute or improve the code. Any form of contribution is welcome! © 2024 Suchit Navghare. All rights reserved.
 
 
